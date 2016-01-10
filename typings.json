@@ -2,6 +2,6 @@
   "name": "globby",
   "main": "index.d.ts",
   "dependencies": {
-    "pinkie-promise": "https://raw.githubusercontent.com/typings/typed-pinkie-promise/680fa32baa4e45e4a13b0c823f4db62ff47990e8/typings.json"
+    "pinkie-promise": "github:typings/typed-pinkie-promise#a3085bbb262672ce9569f797ec6a03de91673441"
   }
 }
